@@ -1,0 +1,27 @@
+{
+  "name": "smart_contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-util": "6.2.1",
+    "web3": "^1.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bird512/smart_contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bird512/smart_contract/issues"
+  },
+  "homepage": "https://github.com/bird512/smart_contract#readme"
+}
